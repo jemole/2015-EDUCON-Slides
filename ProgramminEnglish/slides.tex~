@@ -139,7 +139,7 @@ Who should/could be interested in this talk?
     \end{column}
     
   \end{columns}
-
+\hfill{\Tiny Background picture: Simon Cunningham }
 \end{frame}
 
 \usebackgroundtemplate{}
@@ -168,6 +168,54 @@ Who should/could be interested in this talk?
 \end{frame}
 
 \usebackgroundtemplate{}
+
+%--------------------------------------------------------
+%\usebackgroundtemplate{\includegraphics[width=13cm,height=9.2cm]{figs/plugins.png}}
+% background: http://25.media.tumblr.com/b83aa72682992ab34b8ce7e61c0cb7f9/tumblr_menxc7qcq61ryin08o1_r1_1280.jpg
+\begin{frame}
+\frametitle{Results: Surveys}
+
+  \begin{columns}[T]
+    \begin{column}{0.8\textwidth}
+     \begin{block}{\vspace{0.1cm}\center{We have developed two plug-ins for Hairball to automatically detect bad programming habits}\vspace{0.1cm}}
+\vspace{0.3cm}
+\begin{enumerate}
+  \item convention.SpriteNaming
+\vspace{0.15cm}
+  \item duplicate.DuplicateScripts
+\end{enumerate}
+\vspace{0.4cm}
+    \end{block}
+    \end{column}
+  \end{columns}
+
+\end{frame}
+
+\usebackgroundtemplate{}
+
+%--------------------------------------------------------
+%\usebackgroundtemplate{\includegraphics[width=13cm]{figs/iceberg.jpg}}
+% background: http://www.wim-network.org/wp-content/uploads/2012/04/iceberg.jpg
+
+\begin{frame}
+\frametitle{Results: English knowledge}
+
+\begin{table}
+\begin{center}
+  \begin{tabular}{ | l | c | c | c |}
+   \hline
+              & Default names & Duplicated scripts & Defined blocks \\ \hline\hline
+    Projects & 79 & 62 & 17 \\ \hline
+    Mean & 5.94 & 7.23 & 1.11 \\ \hline
+    Median & 3 & 2 & 0 \\ \hline
+    Maximum & 67 & 71 & 25 \\
+    \hline    
+  \end{tabular}
+\end{center}
+\caption{Analysis of 100 ramdonly downloaded Scratch projects}
+\label{table:results}
+\end{table}
+\end{frame}
 
 %--------------------------------------------------------
 \begin{frame}
@@ -217,53 +265,6 @@ First time programmer teacher
 Computational Thinking Score - Dr. Scratch results 
 http://drscratch.programamos.es
 \end{center}
-\end{frame}
-%--------------------------------------------------------
-%\usebackgroundtemplate{\includegraphics[width=13cm,height=9.2cm]{figs/plugins.png}}
-% background: http://25.media.tumblr.com/b83aa72682992ab34b8ce7e61c0cb7f9/tumblr_menxc7qcq61ryin08o1_r1_1280.jpg
-\begin{frame}
-\frametitle{Hairball plug-ins development}
-
-  \begin{columns}[T]
-    \begin{column}{0.8\textwidth}
-     \begin{block}{\vspace{0.1cm}\center{We have developed two plug-ins for Hairball to automatically detect bad programming habits}\vspace{0.1cm}}
-\vspace{0.3cm}
-\begin{enumerate}
-  \item convention.SpriteNaming
-\vspace{0.15cm}
-  \item duplicate.DuplicateScripts
-\end{enumerate}
-\vspace{0.4cm}
-    \end{block}
-    \end{column}
-  \end{columns}
-
-\end{frame}
-
-\usebackgroundtemplate{}
-
-%--------------------------------------------------------
-%\usebackgroundtemplate{\includegraphics[width=13cm]{figs/iceberg.jpg}}
-% background: http://www.wim-network.org/wp-content/uploads/2012/04/iceberg.jpg
-
-\begin{frame}
-\frametitle{Scratch projects repository analysis}
-
-\begin{table}
-\begin{center}
-  \begin{tabular}{ | l | c | c | c |}
-   \hline
-              & Default names & Duplicated scripts & Defined blocks \\ \hline\hline
-    Projects & 79 & 62 & 17 \\ \hline
-    Mean & 5.94 & 7.23 & 1.11 \\ \hline
-    Median & 3 & 2 & 0 \\ \hline
-    Maximum & 67 & 71 & 25 \\
-    \hline    
-  \end{tabular}
-\end{center}
-\caption{Analysis of 100 ramdonly downloaded Scratch projects}
-\label{table:results}
-\end{table}
 \end{frame}
 
 %--------------------------------------------------------
