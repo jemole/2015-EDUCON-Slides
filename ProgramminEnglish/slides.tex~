@@ -28,22 +28,22 @@
 
 %% Metadatos del PDF.
 \hypersetup{
-  pdftitle={Automatic Detection of Bad Programming Habits in Scratch: A Preliminary Study},
-  pdfauthor={Jesús Moreno León, Gregorio Robles},
+  pdftitle={Computer programming as an educational tool in the English classroom: a preliminary study},
+  pdfauthor={J. Moreno-León, Gregorio Robles},
   pdfcreator={GSyC/LibreSoft \\ Universidad Rey Juan Carlos},
   pdfproducer=PDFLaTeX,
-  pdfsubject={Learning to code with Scratch. Automatic assesment.},
+  pdfsubject={Code to learn with Scratch. English as a second language.},
 }
 %%
 
 \begin{document}
 
-\title{Automatic Detection of Bad Programming Habits in Scratch}
+\title{Computer Programming as an Educational Tool in the English Classroom}
 \subtitle{A Preliminary Study}
 \institute{jesus.moreno@programamos.es, grex@gsyc.urjc.es \\
 GSyC/Libresoft, Universidad Rey Juan Carlos}
-\author{Jesús Moreno León, Gregorio Robles}
-\date{FIE 2014, Madrid, October 23 2014}
+\author{J. Moreno-León, Gregorio Robles}
+\date{EDUCON 2015, Tallinn, March 19 2015}
 
 \frame{
 \maketitle
@@ -71,7 +71,7 @@ GSyC/Libresoft, Universidad Rey Juan Carlos}
 \includegraphics[width=2.2cm]{figs/by-sa}
 
 {\tiny
-(cc) 2014 Gregorio Robles and Jesús Moreno León\\
+(cc) 2014 Gregorio Robles and J. Moreno-León\\
   Some rights reserved. This work licensed under Creative Commons \\
   Attribution-ShareAlike License. To view a copy of full license, see \\
   http://creativecommons.org/licenses/by-sa/3.0/ or write to \\
@@ -86,17 +86,17 @@ For those images, \emph{fair use} applies.
 }
 %%
 
-\section{FIE 2014 - eMadrid Session}
+\section{EDUCON 2015 - eMadrid Session}
 
 
 %--------------------------------------------------------
-\usebackgroundtemplate{\includegraphics[width=17.8cm]{figs/AngryBirds.png}}
+\usebackgroundtemplate{\includegraphics[width=18cm]{figs/AngryBirds.png}}
 
 \begin{frame}
 \frametitle{Goal of our paper}
 
 \begin{center}
-\Huge {\bf Are bad programming habits a common practice in the Scratch community?}
+\Huge {\bf Does the use of programming in the English as a second language class have a positive impact on students learning outcomes?}
 \end{center}
 
 \end{frame}
