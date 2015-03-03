@@ -122,18 +122,43 @@ Who should/could be interested in this talk?
 
 \usebackgroundtemplate{}
 %--------------------------------------------------------
+\usebackgroundtemplate{\includegraphics[width=13cm,height=9.2cm]{figs/english.jpeg}}
 \begin{frame}
-\frametitle{Scratch}
+\frametitle{English language skills of Spanish students}
 
 
   \begin{columns}[T]
     \begin{column}{1\textwidth}
-     \begin{block}{Learning to code with Scratch}
+     \begin{block}{European Survey on Language Competences}
 \begin{itemize}
-  \item Scratch has shown to be successfull in teaching basic and advanced programming concepts
-  \item However, bad programming habits have been detected
-  \item There are no automatic tools to check for \textit{correctness}
-  \item \texttt{Hairball}: \texttt{lint}-inspired static analysis of Scratch projects
+  \item Assessed the English language skills of 53,000 secondary students from 14 countries
+  \item European Commission target: 50\% of students in CEFRL B1 or B2 level
+  \item Spain results in 2014: 30\%
+\end{itemize}
+    \end{block}
+    \end{column}
+    
+  \end{columns}
+
+\end{frame}
+
+\usebackgroundtemplate{}
+
+%--------------------------------------------------------
+\usebackgroundtemplate{\includegraphics[width=13cm,height=9.2cm]{figs/kids.jpeg}}
+\begin{frame}
+\frametitle{The study}
+
+
+  \begin{columns}[T]
+    \begin{column}{1\textwidth}
+     \begin{block}{Code to learn English with Scratch}
+\begin{itemize}
+  \item Quasi-Experimental Design
+  \item 65 students, 4th and 5th grades
+  \item Control groups and experimental groups
+  \item Pre and Post tests
+  \item Surveys
 \end{itemize}
     \end{block}
     \end{column}
@@ -146,43 +171,28 @@ Who should/could be interested in this talk?
 
 %--------------------------------------------------------
 \begin{frame}
-\frametitle{Bad programming habits with Scratch (I)}
-
-\begin{figure}[t!]
-\begin{center}
-%\includegraphics[width=7cm, height=6cm]{figs/SpriteNaming.png}
-\end{center}
-\label{fig:naming}
-\end{figure}
-
-\begin{center}
-\emph{Bad}/default naming of sprites
-\end{center}
-\end{frame}
-
-%--------------------------------------------------------
-\begin{frame}
-\frametitle{Bad programming habits in Scratch (and II)}
+\frametitle{Results: teacher training}
 
   \begin{columns}[T]
     \begin{column}{0.5\textwidth}
  
-     \begin{block}{Example of repeated code}
+     \begin{block}{Experimental group 1}
 \begin{figure}[t!]
 \begin{center}
-%\includegraphics[width=5.4cm,height=2.5cm]{figs/CodeRepetition1.png}
+\includegraphics[width=5.4cm,height=5.4cm]{figs/chart1.png}
 \end{center}
+Teacher with coding experiencie
 \label{fig:repetition1}
 \end{figure}
      \end{block}
     \end{column}
     \begin{column}{0.5\textwidth}
-     \begin{block}{Solution to avoid repeated code}
+     \begin{block}{Experimental group 2}
 \begin{figure}[t!]
 \begin{center}
-%\includegraphics[width=5.4cm,height=2.5cm]{figs/CodeRepetition2.png}
+\includegraphics[width=5.4cm,height=5.4cm]{figs/chart2.png}
 \end{center}
-Blocks should be created to avoid repetition of code
+First time programmer teacher
 \label{fig:repetition2}
 \end{figure}
      \end{block}
@@ -193,6 +203,21 @@ Blocks should be created to avoid repetition of code
 \end{frame}
 
 %--------------------------------------------------------
+\begin{frame}
+\frametitle{Results: coding skills}
+
+\begin{figure}[t!]
+\begin{center}
+\includegraphics[width=11cm, height=5.5cm]{figs/mastery.png}
+\end{center}
+\label{fig:naming}
+\end{figure}
+
+\begin{center}
+Computational Thinking Score - Dr. Scratch results 
+http://drscratch.programamos.es
+\end{center}
+\end{frame}
 %--------------------------------------------------------
 %\usebackgroundtemplate{\includegraphics[width=13cm,height=9.2cm]{figs/plugins.png}}
 % background: http://25.media.tumblr.com/b83aa72682992ab34b8ce7e61c0cb7f9/tumblr_menxc7qcq61ryin08o1_r1_1280.jpg
