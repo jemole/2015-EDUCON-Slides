@@ -7,8 +7,8 @@
 %
 
 %
-% Gráficos:
-% Los gráficos pueden suministrarse en PNG, JPG, TIF, PDF, MPS
+% GrÃ¡ficos:
+% Los grÃ¡ficos pueden suministrarse en PNG, JPG, TIF, PDF, MPS
 % Los EPS deben convertirse a PDF (usar epstopdf)
 %
 
@@ -29,7 +29,7 @@
 %% Metadatos del PDF.
 \hypersetup{
   pdftitle={Computer programming as an educational tool in the English classroom: a preliminary study},
-  pdfauthor={J. Moreno-León, Gregorio Robles},
+  pdfauthor={J. Moreno-LeÃ³n, Gregorio Robles},
   pdfcreator={GSyC/LibreSoft \\ Universidad Rey Juan Carlos},
   pdfproducer=PDFLaTeX,
   pdfsubject={Code to learn with Scratch. English as a second language.},
@@ -42,8 +42,8 @@
 \subtitle{A Preliminary Study}
 \institute{jesus.moreno@programamos.es, grex@gsyc.urjc.es \\
 GSyC/Libresoft, Universidad Rey Juan Carlos}
-\author{J. Moreno-León, Gregorio Robles}
-\date{EDUCON 2015, Tallinn, March 19 2015}
+\author{J. Moreno-LeÃ³n, Gregorio Robles}
+\date{EDUCON 2015, Tallinn, March 19\textsuperscript{th} 2015}
 
 \frame{
 \maketitle
@@ -57,8 +57,8 @@ GSyC/Libresoft, Universidad Rey Juan Carlos}
 }
 
 
-% Si el titulo o el autor se quieren acortar para los pies de página
-% se pueden redefinir aquí:
+% Si el titulo o el autor se quieren acortar para los pies de pÃ¡gina
+% se pueden redefinir aquÃ­:
 %\title{Titulo corto}
 %\author{Autores abreviado}
 
@@ -71,7 +71,7 @@ GSyC/Libresoft, Universidad Rey Juan Carlos}
 \includegraphics[width=2.2cm]{figs/by-sa}
 
 {\tiny
-(cc) 2014 Gregorio Robles and J. Moreno-León\\
+(cc) 2015 J. Moreno-LeÃ³n and Gregorio Robles\\
   Some rights reserved. This work licensed under Creative Commons \\
   Attribution-ShareAlike License. To view a copy of full license, see \\
   http://creativecommons.org/licenses/by-sa/3.0/ or write to \\
@@ -112,10 +112,10 @@ For those images, \emph{fair use} applies.
 Who should/could be interested in this talk?
 
 \begin{itemize}
-  \item Primary and Secondary teachers
-  \item Language educators
-  \item Students
-  \item Developers of programming learning tools
+  \item Primary and Secondary teachers.
+  \item Language educators.
+  \item Students.
+  \item Developers of programming learning tools.
 \end{itemize} 
 
 \end{frame}
@@ -133,7 +133,7 @@ Who should/could be interested in this talk?
 \begin{itemize}
   \item Assessed the English language skills of 53,000 secondary students from 14 countries
   \item European Commission target: 50\% of students in CEFRL B1 or B2 level
-  \item Spain results in 2014: 30\%
+  \item Spanish results in 2014: just 30\%
 \end{itemize}
     \end{block}
     \end{column}
@@ -155,7 +155,7 @@ Who should/could be interested in this talk?
      \begin{block}{Code to learn English with Scratch}
 \begin{itemize}
   \item Quasi-Experimental Design
-  \item 65 students, 4th and 5th grades
+  \item 65 students, 4\textsuperscript{th} and 5\textsuperscript{th} grades
   \item Control groups and experimental groups
   \item Pre and Post tests
   \item Surveys
@@ -173,7 +173,7 @@ Who should/could be interested in this talk?
 %\usebackgroundtemplate{\includegraphics[width=13cm,height=9.2cm]{figs/plugins.png}}
 % background: http://25.media.tumblr.com/b83aa72682992ab34b8ce7e61c0cb7f9/tumblr_menxc7qcq61ryin08o1_r1_1280.jpg
 \begin{frame}
-\frametitle{Results: Surveys}
+\frametitle{Findings: Surveys}
 
   \begin{columns}[T]
     \begin{column}{0.5\textwidth}
@@ -183,7 +183,7 @@ Who should/could be interested in this talk?
     
     \label{fig:repetition1}
     \end{figure}
-Scratch helped me learn English     
+Scratch helped me to learn English     
     \end{column}
     \begin{column}{0.5\textwidth}
     \begin{figure}[t!]
@@ -205,7 +205,7 @@ Scratch helped me learn English
 % background: http://www.wim-network.org/wp-content/uploads/2012/04/iceberg.jpg
 
 \begin{frame}
-\frametitle{Results: English knowledge}
+\frametitle{Findings: English knowledge}
 
 \begin{table}
 \begin{center}
@@ -224,7 +224,7 @@ Scratch helped me learn English
 
 %--------------------------------------------------------
 \begin{frame}
-\frametitle{Results: Teacher training}
+\frametitle{Findings: Teacher training}
 
   \begin{columns}[T]
     \begin{column}{0.5\textwidth}
@@ -245,7 +245,7 @@ Teacher with coding experiencie
 \begin{center}
 \includegraphics[width=5.4cm,height=5.4cm]{figs/chart2.png}
 \end{center}
-First time programmer teacher
+First-time programmer teacher
 \label{fig:results2}
 \end{figure}
      \end{block}
@@ -257,7 +257,7 @@ First time programmer teacher
 
 %--------------------------------------------------------
 \begin{frame}
-\frametitle{Results: Coding skills}
+\frametitle{Findings: Coding skills}
 
 \begin{figure}[t!]
 \begin{center}
@@ -281,8 +281,8 @@ http://drscratch.programamos.es
 \frametitle{Future Work}
 
 \begin{enumerate}
-  \item Expand the number of students
-  \item Extend the type of subjects 
+  \item Increase the number of students
+  \item Increase the type of subjects 
   \item Increase the working time of programming
 \end{enumerate}
 \vspace{\baselineskip}
