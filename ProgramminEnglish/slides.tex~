@@ -7,8 +7,8 @@
 %
 
 %
-% GrÃ¡ficos:
-% Los grÃ¡ficos pueden suministrarse en PNG, JPG, TIF, PDF, MPS
+% Gráficos:
+% Los gráficos pueden suministrarse en PNG, JPG, TIF, PDF, MPS
 % Los EPS deben convertirse a PDF (usar epstopdf)
 %
 
@@ -29,7 +29,7 @@
 %% Metadatos del PDF.
 \hypersetup{
   pdftitle={Computer programming as an educational tool in the English classroom: a preliminary study},
-  pdfauthor={J. Moreno-LeÃ³n, Gregorio Robles},
+  pdfauthor={J. Moreno-León, Gregorio Robles},
   pdfcreator={GSyC/LibreSoft \\ Universidad Rey Juan Carlos},
   pdfproducer=PDFLaTeX,
   pdfsubject={Code to learn with Scratch. English as a second language.},
@@ -42,7 +42,7 @@
 \subtitle{A Preliminary Study}
 \institute{jesus.moreno@programamos.es, grex@gsyc.urjc.es \\
 GSyC/Libresoft, Universidad Rey Juan Carlos}
-\author{J. Moreno-LeÃ³n, Gregorio Robles}
+\author{J. Moreno-León, Gregorio Robles}
 \date{EDUCON 2015, Tallinn, March 19\textsuperscript{th} 2015}
 
 \frame{
@@ -57,8 +57,8 @@ GSyC/Libresoft, Universidad Rey Juan Carlos}
 }
 
 
-% Si el titulo o el autor se quieren acortar para los pies de pÃ¡gina
-% se pueden redefinir aquÃ­:
+% Si el titulo o el autor se quieren acortar para los pies de página
+% se pueden redefinir aquí:
 %\title{Titulo corto}
 %\author{Autores abreviado}
 
@@ -71,7 +71,7 @@ GSyC/Libresoft, Universidad Rey Juan Carlos}
 \includegraphics[width=2.2cm]{figs/by-sa}
 
 {\tiny
-(cc) 2015 J. Moreno-LeÃ³n and Gregorio Robles\\
+(cc) 2015 J. Moreno-León and Gregorio Robles\\
   Some rights reserved. This work licensed under Creative Commons \\
   Attribution-ShareAlike License. To view a copy of full license, see \\
   http://creativecommons.org/licenses/by-sa/3.0/ or write to \\
@@ -139,6 +139,7 @@ Who should/could be interested in this talk?
     \end{column}
     
   \end{columns}
+\vspace{\baselineskip}
 \hfill{\Tiny Background picture: http://onesixstudio.com }
 \end{frame}
 
